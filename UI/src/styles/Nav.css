@@ -1,0 +1,23 @@
+
+.nav__menu-link {
+  text-decoration: none;
+  font-size: 30px;
+  color: #90755a;
+}
+
+.nav__menu-link:hover {
+  color: teal;
+}
+
+.nav {
+  min-height: 50px;
+  background-color: #fff;
+}
+
+.nav__img {
+  max-height: 30px;
+}
+
+.nav__logo_img {
+  max-height: 50px;
+}

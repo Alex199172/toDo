@@ -1,0 +1,16 @@
+body {
+  background-color: teal !important;
+}
+
+.wrap {
+  margin-top: 100px;
+}
+
+.list__form {
+  min-width: 30vw;
+  background: #fff;
+  opacity: 0.8;
+  border-radius: 9px;
+  cursor: pointer;
+  box-shadow: 0px 0px 29px 11px rgba(11, 11, 11, 0.4);
+}
